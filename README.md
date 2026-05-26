@@ -57,7 +57,7 @@ I love building impactful projects, exploring new technologies, and learning how
 
 ## Projects 🚀
 
-### 🚆 Indian Railway MCP Server
+### 🚆 [Indian Railway MCP Server](https://github.com/Nirmal2007/indian-railway-mcp)
 Built an MCP server powered by RailRadar APIs for train timetable and railway data integrations with Claude Desktop and AI workflows.
 
 ### 🧠 AI RAG System
